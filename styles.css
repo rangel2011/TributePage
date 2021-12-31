@@ -52,6 +52,8 @@ p {
     font-size: 12px;
     text-align: center;
     color: #2E1114;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
 }
 
 #img-div {
