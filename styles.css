@@ -9,13 +9,13 @@ body {
     font-size: 1.6rem;
     text-align: center;
     margin: auto;
-    color: #2E1114;
-    background-color: #ADADAD;
+    color: black;
+    background-color: #E3E2DF;
 }
 
 .h1 {
     font-size: 3.5rem;
-    color: #2E1114;
+    color: black;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
     'Helvetica Neue', Arial, sans-serif;
 }
@@ -24,7 +24,7 @@ body {
     font-size: 1.5rem;
     text-align: center;
     font-style: italic;
-    color: #2E1114;
+    color: black;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
     'Helvetica Neue', Arial, sans-serif;
 }
@@ -34,24 +34,22 @@ body {
     font-size: 2.6rem;
     line-height: 2;
     border-style: solid;
-    border-width: 10px;
-    border-color: #83677B;
-    background-color: #ADADAD;
+    border-width: 8px;
+    border-color: #9a1750;
     margin: 10px 100px 10px 100px
 }
 
 #TitleCaption {
-    background-color: #ADADAD;
     border-style: solid;
-    border-width: 10px;
-    border-color: #64485C;
+    border-width: 6px;
+    border-color: #9a1750;
     line-height: 1.5;
 }
 
 p {
     font-size: 12px;
     text-align: center;
-    color: #2E1114;
+    color: black;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
     'Helvetica Neue', Arial, sans-serif;
 }
@@ -60,7 +58,7 @@ p {
     height: auto;
     width: auto;
     text-align: center;
-    background-color: #ADADAD;
+
 }
 #image {
     max-width: 100%;
@@ -68,26 +66,21 @@ p {
     height: auto;
     margin: 0 auto;
     text-align: center;
-    border-color: #501B1D;
+    border-color: #5D001E;
     border-width: 10px;
     border-style: solid;
     padding: auto;
 }
 
 #img-caption {
-    background-color: #ADADAD;
     border-style: none none solid none;
     border-width: 10px;
-    border-color: #64485C;
+    border-color: #9a1750;
     line-height: 1.5;
-    color: #2E1114;
+    color: black;
   }
 
 #welcome{
-    background-color: #ADADAD;
-    border: solid;
-    border-color: #64485C;
-    border-width: 10px;
     font-size: 1.6rem;  
     padding: 10px;   
     color: #2E1114;   
@@ -100,15 +93,10 @@ p {
 #Content {
     font-size: 20px;
     padding: auto;
-    background-color: #ADADAD;
-    color: #2E1114;  
+    color: black;  
 }
 
 
 #tribute-link {
-    background-color: #ADADAD;
-    border-style: solid;
-    border-width: 10px;
-    border-color: #64485C;
     line-height: 1.5;
 }
